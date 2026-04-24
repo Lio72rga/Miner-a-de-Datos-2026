@@ -1,4 +1,5 @@
 Minería de Datos 2026 – Semana 2
+
 Alumno: Lionel A. Martinez.
 
 Limpieza, Transformación y Análisis Exploratorio de Datos
