@@ -31,7 +31,7 @@ Este repositorio contiene el desarrollo práctico de la Clase 5 de Minería de D
 
 | Archivo | Descripción |
 |---|---|
-| `Notebook_Mineria_Datos_Clase5_FINAL.ipynb` | Notebook principal con todos los ejercicios resueltos |
+| `A04_Clase_5_Lionel_Martinez.ipynb` | Notebook principal con todos los ejercicios resueltos |
 | `README.md` | Documentación del proyecto |
 
 ---
